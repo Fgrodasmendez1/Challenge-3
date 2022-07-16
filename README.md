@@ -16,7 +16,7 @@ This project has been deployed to GitHub. In order to populate this project, you
 
 
 
-![Password-Generator Demo](Screencast-1)
+![Password-Generator Demo](Asset/Screencast-1)
 
 ### Prerequisites
 
