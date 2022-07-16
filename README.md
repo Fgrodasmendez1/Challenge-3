@@ -44,7 +44,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * A Copy button 
     * This will copy the users password to the user's devices clipboard
 
-![Screenshot-3](Assets/Screenshot-3.png)
+![Screenshot-3](Assets/Screenshot-4.png)
 
 ### Psuedo Code and Project Requirements: 
 * The user will be prompted to choose from the following password criteria: 8 and 128 characters
