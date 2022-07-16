@@ -15,8 +15,6 @@ This project has been deployed to GitHub. In order to populate this project, you
 * [Full Demo Video](https://drive.google.com/file/d/1ttBRZnqHv4Nu8h-9cnvnOclxjHKyko8c/view)
 
 
-![Password-Generator Demo](https://user-images.githubusercontent.com/104540728/179360423-da53fd09-fd1c-4498-83d2-c9195497c022.webm)
-
 ### Prerequisites
 
 To install this application you will need a text editor. Ex. Visual Studio Code. 
@@ -29,7 +27,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * HTML and CSS and Javascript documents create a random password generator 
 * This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
 
-![]()
+![Password-Generator Demo]()
 
 ### This project has the following features: 
 * A generate button
