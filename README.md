@@ -27,7 +27,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * HTML and CSS and Javascript documents create a random password generator 
 * This project emphasizes the use of using Javascript to make dynamic changes to an HMTL document
 
-![Password-Generator Demo]()
+![Password-Generator Demo](Assets/Challenge3.gif)
 
 ### This project has the following features: 
 * A generate button
