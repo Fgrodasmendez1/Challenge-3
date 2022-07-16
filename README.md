@@ -11,7 +11,7 @@ This project has been deployed to GitHub Pages. To get this project up and runni
 This project has been deployed to GitHub. In order to populate this project, you can follow the deployment link or download the sources files to use this as a template.
 
 * [GitHub Repository](https://github.com/Fgrodasmendez1/Challenge-3)
-* [Deployed GitHub IO]()
+* [Deployed GitHub IO](https://fgrodasmendez1.github.io/Challenge-3/)
 * [Full Demo Video](https://drive.google.com/file/d/1ttBRZnqHv4Nu8h-9cnvnOclxjHKyko8c/view)
 
 
