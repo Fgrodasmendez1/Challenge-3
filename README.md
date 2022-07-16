@@ -39,7 +39,7 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
 * A Textarea
     * This textarea will display the users password once it is generated
 
-![Screenshot-1](Assets/Screenshot-1.png)
+![Screenshot-1](Assets/Screenshot-3.png)
 
 * A Copy button 
     * This will copy the users password to the user's devices clipboard
