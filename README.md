@@ -34,12 +34,12 @@ To install this code, download the zip file, or use GitHub's guidelines to clone
     * This will send the user a series of prompts and confirms
     * After user data is collected, a random password will be generated using Javascript
 
-![Screenshot-1](Assets/Screenshot-1.png)
+![Screenshot-2](Assets/Screenshot-2.png)
 
 * A Textarea
     * This textarea will display the users password once it is generated
 
-![Screenshot-2](Assets/Screenshot-2.png)
+![Screenshot-1](Assets/Screenshot-1.png)
 
 * A Copy button 
     * This will copy the users password to the user's devices clipboard
